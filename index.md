@@ -1,4 +1,4 @@
-# About PKU-ML-Group
+# About PKU-ML
 PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs and so on.
 
 ## 2023 FALL
