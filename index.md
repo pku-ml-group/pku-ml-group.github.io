@@ -7,3 +7,4 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2023-09-08]** On Calibration of Modern Neural Networks. [[pdf](./ppt/20230908_Model%20Calibration.pdf)] Kun-Peng Ning
 - **[2023-09-15]** AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. [[pdf](./ppt/20230915-AutoPrompt.pdf)] Jia-Yu Yao
 - **[2023-09-22]** SAM: Segment Anything. [[pdf](./ppt/20230922-SAM.pdf)] Hai-Jian Ke
+- **[2023-09-22]** Black Box Adversarial Attack. [[pdf](./ppt/20231013-blackbox.pdf)] Zhen-Hui Liu
