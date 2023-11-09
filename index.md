@@ -10,3 +10,4 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2023-10-13]** Black Box Adversarial Attack. [[pdf](./ppt/20231013-blackbox.pdf)] Zhen-Hui Liu
 - **[2023-10-20]** Black Box Adversarial Attack on Text Classification. [[pdf](./ppt/20231020-BlackBoxAdversarialAttacksonText.pdf)] Kun-Peng Ning
 - **[2023-10-27]** Reinforcement Learning to Attack Based LLM Evaluation. [[pdf](./ppt/20231027-Reinforcement%20Learning%20%20to%20Attack%20Based%20LLM%20Evaluation.pdf)] Jia-Yu Yao
+- **[2023-11-03]** Class incremental learning. [[pdf](./ppt/20231105-class_incremental_learning.pdf)] Hai-Jian Ke
