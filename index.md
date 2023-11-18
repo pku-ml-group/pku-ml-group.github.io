@@ -12,4 +12,4 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2023-10-27]** Reinforcement Learning to Attack Based LLM Evaluation. [[pdf](./ppt/20231027-Reinforcement%20Learning%20%20to%20Attack%20Based%20LLM%20Evaluation.pdf)] Jia-Yu Yao
 - **[2023-11-03]** Class incremental learning. [[pdf](./ppt/20231105-class_incremental_learning.pdf)] Hai-Jian Ke
 - **[2023-11-10]** Prompt tuning survey. [[pdf](./ppt/20231110-prompt_tuning_survey.pdf)] Shuo Yang
-- **[2023-10-13]** LLM Evaluation. [[pdf](./ppt/20231117-llm_evaluation.pdf)] Zhen-Hui Liu
+- **[2023-11-17]** LLM Evaluation. [[pdf](./ppt/20231117-llm_evaluation.pdf)] Zhen-Hui Liu
