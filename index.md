@@ -14,3 +14,4 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2023-11-10]** Prompt tuning survey. [[pdf](./ppt/20231110-prompt_tuning_survey.pdf)] Shuo Yang
 - **[2023-11-17]** LLM Evaluation. [[pdf](./ppt/20231117-llm_evaluation.pdf)] Zhen-Hui Liu
 - **[2023-11-24]** Edit Large Language Models. [[pdf](./ppt/20231124-Edit_Large_language_model.pdf)] Yu Wang
+- **[2023-12-01]** Eliciting Thinking Hierarchy without a Prior. [[pdf](./ppt/20231201-thinking_herarchy.pdf)] Kun-Peng Ning
