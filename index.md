@@ -18,5 +18,6 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2023-12-08]** R-tuning: Teaching Large Language Models to Refuse Unknown Questions. [[pdf](./ppt/20231208-R-Tuning.pdf)] Jia-Yu Yao
 - **[2023-12-15]** Rainbow Memory: Continual Learning with a Memory of Diverse Samples. [[pdf](./ppt/20231215-Rainbow.pdf)] Hai-Jian Ke
 - **[2023-12-22]** Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning. [[pdf](./ppt/20231222-Label-Words-are-Anchors.pdf)] Shuo Yang
+
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
