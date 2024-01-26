@@ -22,3 +22,4 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
 - **[2024-01-12]** Direct Preference Optimization: Your Language Model is Secretly a Reward Model. [[pdf](./ppt/20240112-DPO.pdf)] Zhen-Hui Liu
+- **[2024-01-26]** Instance Selection for In-Context Learning. [[pdf](./ppt/20240126-instance-selection.pptx)] Kun-Peng Ning
