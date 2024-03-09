@@ -7,6 +7,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-01-12]** Direct Preference Optimization: Your Language Model is Secretly a Reward Model. [[pdf](./ppt/20240112-DPO.pdf)] Zhen-Hui Liu
 - **[2024-01-26]** Instance Selection for In-Context Learning. [[pdf](./ppt/20240126-instance-selection.pdf)] Kun-Peng Ning
 - **[2024-03-02]** Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch. [[pdf](./ppt/20240302-Sparse_LM.pdf)] Jia-Yu Yao
+- **[2024-03-02]** Extending Context Window of Large Language Models via Positional Interpolation. [[pdf](./ppt/20240310-Extending%20Context%20Window%20of%20Large%20Language%20Models%20via%20Positional%20Interpolation.pdf)] Shuo Yang
 
 ## 2023 FALL
 - **[2023-09-01]** LLMs Attacks: Universal and Transferable Adversarial Attacks on Aligned Language Models. [[pdf](./ppt/20230901-LLMs-Attacker.pdf)] Zhen-Hui Liu
