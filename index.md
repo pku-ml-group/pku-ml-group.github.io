@@ -11,6 +11,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-03-15]** S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning. [[pdf](./ppt/20240315-sprompt.pdf)] Hai-Jian Ke
 - **[2024-03-22]** Multi-modality Language Model Defense/Attack. [[pdf](./ppt/20240322-wangyu.pdf)] Yu Wang
 - **[2024-03-29]** Logits of API-Protected LLMs Leak Proprietary Information. [[pdf](./ppt/20240329-LogitsStolen.pdf)] Zhen-Hui Liu
+- **[2024-04-12]** Introduction of Mamba Model. [[pdf](./ppt/20240410-Mamba.pdf)] Mu-Nan Ning
 - 
 ## 2023 FALL
 - **[2023-09-01]** LLMs Attacks: Universal and Transferable Adversarial Attacks on Aligned Language Models. [[pdf](./ppt/20230901-LLMs-Attacker.pdf)] Zhen-Hui Liu
