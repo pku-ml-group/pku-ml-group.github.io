@@ -15,6 +15,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-04-19]** Thought Cloning: Learning to Think while Acting by Imitating Human Thinking. [[pdf](./ppt/20240419-thought-cloning.pdf)] Kun-Peng Ning
 - **[2024-04-26]** Fine-Tuning Language Models with Reward Learning on Policy. [[pdf](./ppt/20240426-On-Policy-Tuning.pdf)] Jia-Yu Yao
 - **[2024-05-10]** RAG Survey. [[pdf](./ppt/20240510-Retrieval-Augmented%20Generation%20for%20Large%20Language%20Models%20A%20Survey.pdf)] Shuo Yang
+- **[2024-05-24]** Fast Inference from Transformers via Speculative Decoding. [[pdf](./ppt/20240524-SpeculativeDecoding.pdf)] Zhen-Hui Liu
 
 ## 2023 FALL
 - **[2023-09-01]** LLMs Attacks: Universal and Transferable Adversarial Attacks on Aligned Language Models. [[pdf](./ppt/20230901-LLMs-Attacker.pdf)] Zhen-Hui Liu
