@@ -22,6 +22,8 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-06-28]** Parameter Efficient Tuning. [[pdf](./ppt/20240628-Parameter%20Effecient%20Tuning.pdf)] Shuo Yang
 - **[2024-07-05]** Rotary Position Encoding. [[pdf](./ppt/20240712-braindecode.pdf)] Zhen-Hui Liu
 - **[2024-07-12]** Brain Decode Deep Nets. [[pdf](./ppt/20240712-braindecode.pdf)] Kun-Peng Ning
+- **[2024-07-23]** Mixture of Experts Meets Prompt-Based Continual Learning. [[pdf](./ppt/20240719-NoRGa.pdf)] Jia-Yu Yao
+- **[2024-07-23]** O-LoRA & AM-LoRA. [[pdf](./ppt/20240723-kkkk.pdf)] Hai-Jian Ke
 
 ## 2023 FALL
 - **[2023-09-01]** LLMs Attacks: Universal and Transferable Adversarial Attacks on Aligned Language Models. [[pdf](./ppt/20230901-LLMs-Attacker.pdf)] Zhen-Hui Liu
