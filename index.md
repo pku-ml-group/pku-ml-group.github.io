@@ -2,6 +2,10 @@
 layout: default
 ---
 PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs and so on.
+## 2024 FALL
+- **[2024-08-23]** Causal Estimation of Memorisation Profiles. [[pdf](./ppt/20240823-Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)] Shuo Yang
+- **[2024-08-30]** Genie: Generative Interactive Environments. [[pdf](./ppt/20240830-Genie.pdf)] Zhen-Hui Liu
+
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
 - **[2024-01-12]** Direct Preference Optimization: Your Language Model is Secretly a Reward Model. [[pdf](./ppt/20240112-DPO.pdf)] Zhen-Hui Liu
