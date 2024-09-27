@@ -6,6 +6,8 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-08-23]** Causal Estimation of Memorisation Profiles. [[pdf](./ppt/20240823-Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)] Shuo Yang
 - **[2024-08-30]** Genie: Generative Interactive Environments. [[pdf](./ppt/20240830-Genie.pdf)] Zhen-Hui Liu
 - **[2024-09-06]** Semantic Uncertainty. [[pdf](./ppt/20240906_Semantic%20Uncertainty.pdf)] Kun-Peng Ning
+- **[2024-09-20]** Let's Verify Step by Step. [[pdf](./ppt/20240920-Let’s%20Verify%20Step%20by%20Step.pptx)] Hai-Jian Ke
+- **[2024-09-27]** Rediscovery Old School PR & ML in LLM. [[pdf](./ppt/20240927-Rediscover.pdf)] Jia-Yu Yao
 
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
