@@ -10,6 +10,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-09-27]** Rediscovery Old School PR & ML in LLM. [[pdf](./ppt/20240927-Rediscover.pdf)] Jia-Yu Yao
 - **[2024-10-11]** Loss of plasticity in deep continual learning. [[pdf](./ppt/20241011-Loss%20of%20plasticity.pdf)] Shuo Yang
 - **[2024-10-18]** Amortizing Intractable Inference in Large Language Models. [[pdf](./ppt/20241018-IntractableGen.pdf)] Zhen-Hui Liu
+- **[2024-11-01]** GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models. [[pdf](./ppt/20241101-GSM-Sym.pdf)] Kun-Peng Ning
 
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
