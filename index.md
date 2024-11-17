@@ -11,6 +11,8 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-10-11]** Loss of plasticity in deep continual learning. [[pdf](./ppt/20241011-Loss%20of%20plasticity.pdf)] Shuo Yang
 - **[2024-10-18]** Amortizing Intractable Inference in Large Language Models. [[pdf](./ppt/20241018-IntractableGen.pdf)] Zhen-Hui Liu
 - **[2024-11-01]** GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models. [[pdf](./ppt/20241101-GSM-Sym.pdf)] Kun-Peng Ning
+- **[2024-11-08]** Proving Test Set Contamination in Black Box Language Model. [[pdf](./ppt/20241108-Test%20Set%20Contamination.pdf)] Jia-Yu Yao
+- **[2024-11-15]** A Survey of Safety Harmful fine-tuning defenses. [[pdf](./ppt/20241115-A%20Survey%20of%20%20Safety%20Harmful%20fine-tuning%20defenses%20.pdf)] Shuo Yang
 
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
