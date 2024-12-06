@@ -14,6 +14,8 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2024-11-08]** Proving Test Set Contamination in Black Box Language Model. [[pdf](./ppt/20241108-Test%20Set%20Contamination.pdf)] Jia-Yu Yao
 - **[2024-11-15]** A Survey of Safety Harmful fine-tuning defenses. [[pdf](./ppt/20241115-A%20Survey%20of%20%20Safety%20Harmful%20fine-tuning%20defenses%20.pdf)] Shuo Yang
 - **[2024-11-22]** The Super Weight in Large Language Models. [[pdf](./ppt/20241122-Super%20Weight.pdf)] Qiu-He Hong
+- **[2024-11-29]** Open Vocabulary Object Detection. [[pdf](./ppt/20241129-open-vocabulary%20obejct%20detection.pdf)] Tian-Tian Peng
+- **[2024-11-22]** Generation & Understanding. [[pdf](./ppt/20241206-align_pkuml.pdf)] Yu-Wei Niu
 
 ## 2024 SPRING
 - **[2024-01-05]** Attack in Multimodal Large Language Models. [[pdf](./ppt/20240105-VLM%20attack-yuwang.pdf)] Yu Wang
