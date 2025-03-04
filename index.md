@@ -4,6 +4,7 @@ layout: default
 PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs and so on.
 ## 2025 SPRING
 - **[2025-02-21]** DeepSeek Series. [[pdf](./ppt/20250221-Deepseek.pdf)] Shuo Yang
+- **[2025-02-28]** World Model & Reasoning Attack. [[pdf](./ppt/20250228-world_model_reasoning_attack.pdf)] Jia-Yu Yao
 
 ## 2024 FALL
 - **[2024-08-23]** Causal Estimation of Memorisation Profiles. [[pdf](./ppt/20240823-Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)] Shuo Yang
