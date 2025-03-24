@@ -7,6 +7,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2025-02-28]** World Model & Reasoning Attack. [[pdf](./ppt/20250228-world_model_reasoning_attack.pdf)] Jia-Yu Yao
 - **[2025-03-07]** Self Adaptive LLMs & Learning to Memorize at Test Time. [[pdf](./ppt/20250307-qiuhe.pdf)] Qiu-He Hong
 - **[2025-03-14]** Modality Gap. [[pdf](./ppt/20250314_ModalityGap.pdf)] Tian-Tian Peng
+- **[2025-03-21]** Physics of Language Models. [[pdf](./ppt/20250321-pkuml_physics.pdf)] Yu-Wei Liu
 
 ## 2024 FALL
 - **[2024-08-23]** Causal Estimation of Memorisation Profiles. [[pdf](./ppt/20240823-Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)] Shuo Yang
