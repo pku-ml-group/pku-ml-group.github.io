@@ -11,6 +11,8 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2025-03-28]** All Roads Lead to Likelihood & Exploring the Visual Shortcomings of LVMs. [[pdf](./ppt/20250328-paperreading.pdf)] Yu-Lu Zhou
 - **[2025-04-11]** SimVQ-VAE. [[pdf](./ppt/20250411-SimVQ-VAE.pdf)] Xin-Lin Peng
 - **[2025-04-18]** A Minimaximalist Approach to Reinforcement Learning from Human Feedback. [[pdf](./ppt/20250418-RLHF.pdf)] Kun-Peng Ning
+- **[2025-05-08]** Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? [[pdf](./ppt/0508组会.pdf)] Shuo Yang
+- **[2025-05-16]** Is Cosine-Similarity of Embeddings Really About Similarity? [[pdf](./ppt/20250516.pdf)] Qiu-He Hong
 
 ## 2024 FALL
 - **[2024-08-23]** Causal Estimation of Memorisation Profiles. [[pdf](./ppt/20240823-Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)] Shuo Yang
