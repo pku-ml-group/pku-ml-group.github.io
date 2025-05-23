@@ -13,6 +13,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2025-04-18]** A Minimaximalist Approach to Reinforcement Learning from Human Feedback. [[pdf](./ppt/20250418-RLHF.pdf)] Kun-Peng Ning
 - **[2025-05-08]** Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model? [[pdf](./ppt/0508组会.pdf)] Shuo Yang
 - **[2025-05-16]** Is Cosine-Similarity of Embeddings Really About Similarity? [[pdf](./ppt/20250516.pdf)] Qiu-He Hong
+- **[2025-05-23]** Null Space in Continual Learning. [[pdf](./ppt/20250523-Null%20Space%20in%20Continual%20Learning.pdf)] Tian-Tian Peng
 
 ## 2024 FALL
 - **[2024-08-23]** Causal Estimation of Memorisation Profiles. [[pdf](./ppt/20240823-Causal%20Estimation%20of%20Memorisation%20Profiles.pdf)] Shuo Yang
