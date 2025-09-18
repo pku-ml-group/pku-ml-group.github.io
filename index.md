@@ -4,6 +4,7 @@ layout: default
 PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs and so on.
 ## 2025 FALL
 - **[2025-09-05]** MemP Exploring Agent Procedural Memory. [[pdf](./ppt/20250905-MemP%20Exploring%20Agent%20Procedural%20Memory.pdf)] Qiu-He Hong
+- **[2025-09-12]** LLMs Post-training Dreams, Reality, and Fallacies. [[pdf](./ppt/20250912-LLMs%20Post-training%20Dreams,%20Reality,%20and%20Fallacies.pdf)] Shuo Yang
 
 ## 2025 SPRING
 - **[2025-02-21]** DeepSeek Series. [[pdf](./ppt/20250221-Deepseek.pdf)] Shuo Yang
