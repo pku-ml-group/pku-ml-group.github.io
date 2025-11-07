@@ -5,8 +5,10 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 ## 2025 FALL
 - **[2025-09-05]** MemP Exploring Agent Procedural Memory. [[pdf](./ppt/20250905-MemP%20Exploring%20Agent%20Procedural%20Memory.pdf)] Qiu-He Hong
 - **[2025-09-12]** LLMs Post-training Dreams, Reality, and Fallacies. [[pdf](./ppt/x.pdf)] Shuo Yang
-- **[2025-09-17]** Generalization of CLIP. [[pdf](./ppt/20250917-Generalization%20of%20CLIP.pdf)] Tian-Tian Peng
-- **[2025-09-17]** Unify Models. [[pdf](./ppt/20250926-pkuml.pdf)] Yu-Wei Niu
+- **[2025-09-19]** Generalization of CLIP. [[pdf](./ppt/20250917-Generalization%20of%20CLIP.pdf)] Tian-Tian Peng
+- **[2025-09-26]** Unify Models. [[pdf](./ppt/20250926-pkuml.pdf)] Yu-Wei Niu
+- **[2025-10-17]** Learning to See Before Seeing. [[pdf](./ppt/20251017-ml10.10.pdf)] Yu-Lu Zhou
+- **[2025-10-31]** The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models. [[pdf](./ppt/20251031-11.1论文分享.pdf)] Xin-Lin Peng
 
 ## 2025 SPRING
 - **[2025-02-21]** DeepSeek Series. [[pdf](./ppt/20250221-Deepseek.pdf)] Shuo Yang
