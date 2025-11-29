@@ -10,7 +10,7 @@ PKU-ML group advised by [Yuan Li](https://yuanli2333.github.io/) mainly focus on
 - **[2025-10-17]** Learning to See Before Seeing. [[pdf](./ppt/20251017-ml10.10.pdf)] Yu-Lu Zhou
 - **[2025-10-31]** The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models. [[pdf](./ppt/20251031-11.1论文分享.pdf)] Xin-Lin Peng
 - **[2025-11-07]** On Policy Distillation. [[pdf](./ppt/20251107-On-Policy%20Distillaton.pdf)] Shuo Yang
-- **[2025-10-31]** Calibration, Self-Evaluation, Hallucination. [[pdf](./ppt/20251128-Q4.pdf)] Qiu-He Hong
+- **[2025-11-28]** Calibration, Self-Evaluation, Hallucination. [[pdf](./ppt/20251128-Q4.pdf)] Qiu-He Hong
 
 ## 2025 SPRING
 - **[2025-02-21]** DeepSeek Series. [[pdf](./ppt/20250221-Deepseek.pdf)] Shuo Yang
